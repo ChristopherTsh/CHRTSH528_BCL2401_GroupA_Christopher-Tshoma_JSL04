@@ -1,36 +1,24 @@
-# [JSL04] Submission: Monster Ternary Operator
+# Monster Ternary Operator
 
-You will:
-1. Use the provided Starter Code Repository.
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.
+This repository showcases JavaScript code that uses ternary operators to tackle various challenges related to Monster Energy drinks.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/p9bvd5QH3
+## Challenges
 
-**Challenge Scenario:** In this coding exercise, you will work with the Monster Ternary Operator. You'll use ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
+### Challenge 1: Flavor Selection
+Imagine a user has a preference for Monster Energy drinks. We need to determine whether they prefer the "Regular" or "Sugar-free" variety. If the preference isn't specified, we default to "Regular."
 
-In each of these challenges, the ternary operator is used to decide between two options based on a condition, demonstrating its utility for concise conditional logic. Remember that while ternaries can make the code more succinct, they should be used judiciously to maintain readability, especially for more complex conditions.
+### Challenge 2: Stock Check
+We're keeping track of the number of Monster Energy cans left in the fridge. If there are fewer than 5 cans, we print "Time to restock!" Otherwise, if there are 5 or more cans, we confidently declare, "We're stocked!"
 
-## What You Need to Do:
+### Challenge 3: Workout Intensity
+Let's consider the user's current heart rate. If it's below 100 beats per minute (bpm), we recommend a Monster Energy drink to boost their workout with a motivational "Boost needed!" message. Otherwise, if the heart rate is 100 bpm or higher, we reassure them with "Energy levels are high!"
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_JSL04 
-2. Open the cloned project in your code editor.
-3. Code your solution for each of the challenges as per the provided instructions.
-4. Commit your changes to your local Git repository with meaningful commit messages.
-5. Push your local Git repository to your GitHub account.
-6. Verify that the changes have been successfully pushed to your GitHub repository.
+### Challenge 4: Temperature Suitability
+Based on the current temperature, we decide whether it's suitable to serve Monster Energy drinks. If the temperature is 5°C or below, we confidently state, "Chilled to perfection!" However, if it's above 5°C, we advise, "Needs a cooler!"
 
-## What You Need to Include:
+### Challenge 5: Late Night Coding Session
+Late-night coding sessions call for a decision. If the current hour falls between 7 am and midnight (in 24-hour format), we enthusiastically encourage the user with "Unleash the beast!" But if it's outside that timeframe, we gently suggest, "Better stick to water."
 
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
+## Usage
+Each challenge solution employs a ternary operator to make decisions based on specific conditions. The provided JavaScript code demonstrates how these concise operators can handle conditional logic effectively.
 
-## How We'll Assess Your Work:
-
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. Successful completion of the project will involve implementing the ternary logic as per the provided instructions.
-4. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-Please follow the provided steps and guidelines to complete the Monster Ternary Operator challenge effectively. Your ability to use ternary operators for conditional logic is a valuable skill, and we look forward to reviewing your work.
